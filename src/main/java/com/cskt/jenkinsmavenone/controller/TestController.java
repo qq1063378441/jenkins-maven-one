@@ -11,7 +11,7 @@ public class TestController {
 
     @RequestMapping("/test")
     public String test() {
-        return "fff";
+        return "ggg";
     }
 
 }
