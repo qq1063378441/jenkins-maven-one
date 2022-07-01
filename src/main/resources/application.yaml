@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jenkins-maven-one
+
+
+server:
+  port: 8081
